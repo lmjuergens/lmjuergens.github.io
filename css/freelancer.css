@@ -81,8 +81,8 @@ hr.star-primary:after {
 
 header {
     text-align: center;
-    color: #fff;
-    background: #18bc9c;
+    color: black;
+    background: white;
 }
 
 header .container {
@@ -260,10 +260,10 @@ section.success a.active {
 }
 
 .btn-outline {
-    margin-top: 15px;
-    border: solid 2px #fff;
+    margin-top: 35px;
+    border: solid 2px black;
     font-size: 20px;
-    color: #fff;
+    color: black;
     background: 0 0;
     transition: all .3s ease-in-out;
 }
@@ -272,7 +272,7 @@ section.success a.active {
 .btn-outline:focus,
 .btn-outline:active,
 .btn-outline.active {
-    border: solid 2px #fff;
+    border: solid 2px #18bc9c;
     color: #18bc9c;
     background: #fff;
 }
