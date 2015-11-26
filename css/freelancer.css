@@ -272,9 +272,9 @@ section.success a.active {
 .btn-outline:focus,
 .btn-outline:active,
 .btn-outline.active {
-    border: solid 2px #18bc9c;
-    color: #18bc9c;
-    background: #fff;
+    border: solid 2px white;
+    color: white;
+    background: transparent;
 }
 
 .floating-label-form-group {
