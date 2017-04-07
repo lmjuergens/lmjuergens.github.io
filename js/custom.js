@@ -3,6 +3,6 @@ $(document).ready(function() {
         var question_val = $(this).val();
 
         $("div.description").hide();
-        $("#optradio" + question_val).show();
+        $("#optradio_" + question_val + "_sub").show();
     });
 });

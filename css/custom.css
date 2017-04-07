@@ -1,3 +1,7 @@
-.radio-inline-group {
-	text-align: center;
+.question {
+	margin-top: 25px;
+	font-weight: 600;
+}
+.jumbotron .question-text {
+	font-weight: 700;
 }
